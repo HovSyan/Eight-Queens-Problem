@@ -1,5 +1,6 @@
 /*
 * Created on 13.04.19 by Hovhannes Sahakyan (syanhovhannes@gmail.com)
+* Taskx
 */
 
 const QUEENS_COUNT = 8;
